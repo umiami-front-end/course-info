@@ -42,6 +42,7 @@ While there are many online references, [Mozilla Developers Network](https://dev
 ### Command Line
 
 - [Git Tower: Command Line Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/cli) <img src="assets/new.gif" alt="new" />
+- [Udacity: Absolute and Relative Paths](https://www.youtube.com/watch?v=ephId3mYu9o) (video) <img src="assets/new.gif" alt="new" />
 - [Software Carpentry: Shell Novice](https://swcarpentry.github.io/shell-novice/)
 - [Software Carpentry: Shell Extras](http://swcarpentry.github.io/shell-extras/)
 
