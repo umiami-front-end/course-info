@@ -41,6 +41,7 @@ While there are many online references, [Mozilla Developers Network](https://dev
 
 ### Command Line
 
+- [Git Tower: Command Line Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/cli)
 - [Software Carpentry: Shell Novice](https://swcarpentry.github.io/shell-novice/)
 - [Software Carpentry: Shell Extras](http://swcarpentry.github.io/shell-extras/)
 
