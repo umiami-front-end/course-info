@@ -5,6 +5,8 @@ Complete reading assignments before the start of the following week.
 
 Check back weekly for updates.
 
+Last updated: Wed., Feb. 26, 2020
+
 
 ## Weekly Readings
 
@@ -51,6 +53,7 @@ Check back weekly for updates.
 - [MDN: CSS Values and Units: Numbers, lengths, and percentages](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#Numbers_lengths_and_percentages)
 - [Snook.ca: Sizing with CSS3's vw and vh units](https://snook.ca/archives/html_and_css/vm-vh-units)
 - [CSS Tricks: Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/)
+- [24 Accessibility: Pixels vs. Relative Units in CSS: Why It's Still a Big Deal](https://www.24a11y.com/2019/pixels-vs-relative-units-in-css-why-its-still-a-big-deal/) <img src="assets/new.gif" alt="New!" />
 
 ### Week 7 (Feb. 24)
 
