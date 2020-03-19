@@ -5,8 +5,7 @@ Complete reading assignments before the start of the following week.
 
 Check back weekly for updates.
 
-Last updated: Wed., Feb. 26, 2020
-
+Last updated: Wednesday, March 18, 2020.
 
 ## Weekly Readings
 
@@ -70,30 +69,40 @@ Last updated: Wed., Feb. 26, 2020
 - [Froont: 9 basic principles of responsive web design](https://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 - [Responsive Web Design Examples](https://responsivedesign.is/examples/)
 
-### Week 9 (March 9)
+### Week 9-10 (March 9)
 
 **Spring Break: March 7-15**
 
-### Week 10 (March 16)
+### Week 11 (March 23)
 
 **JavaScript for Web Designers**
 - Introduction
 - Ch. 1: Getting Set Up
 
-- [CSS Tricks: Using SVG](https://css-tricks.com/using-svg/)
-- Skim SVG element, attribute references at [MDN](https://developer.mozilla.org/en-US/docs/Web/SVG)
-
-### Week 11 (March 23)
+### Week 12 (March 30)
 
 **JavaScript for Web Designers**
 - Ch. 2: Understanding Data Types
+
+**Learn JavaScript**
+- [Strings](https://www.javascript.com/learn/strings)
+- [Numbers](https://www.javascript.com/learn/numbers)
+- [Booleans](https://www.javascript.com/learn/booleans)
+- [Operators](https://www.javascript.com/learn/operators)
+- [Variables](https://www.javascript.com/learn/variables)
+- [Arrays](https://www.javascript.com/learn/arrays)
+- [Objects](https://www.javascript.com/learn/objects)
+
+### Week 13 (April 6)
+
+**JavaScript for Web Designers**
 - Ch. 3: Conditional Statements
 - Ch. 4: Loops
 
-- Review Strings, Numbers, Booleans, Operators and Variables at [Learn JavaScript](https://www.javascript.com/learn/strings)
-- *Optional*: [Eloquent JavaScript, Ch. 1: Values, Types and Operators](http://eloquentjavascript.net/01_values.html)
+**Learn JavaScript**
+- [Conditionals](https://www.javascript.com/learn/conditionals)
 
-### Week 12 (March 30)
+### Week 14 (April 13)
 
 **Adaptive Web Design**
 - Ch. 5: Interaction is an Enhancement
@@ -101,23 +110,8 @@ Last updated: Wed., Feb. 26, 2020
 **JavaScript for Web Designers**
 - Ch. 5: DOM Scripting
 
-- Review Conditionals, Arrays and Objects at [Learn JavaScript](https://www.javascript.com/learn/conditionals)
-- *Optional*: [Eloquent JavaScript: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
-- *Optional*: [Eloquent JavaScript: Data Structures: Objects and Arrays](https://eloquentjavascript.net/04_data.html)
-- *Optional*: [Eloquent JavaScript: Secret Life of Objects](https://eloquentjavascript.net/06_object.html)
-
-### Week 13 (April 6)
-
-- Review Functions at [Learn JavaScript](https://www.javascript.com/learn/functions)
 - [MDN: Your First HTML Form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
 - [MDN: Native Form Widgets](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/The_native_form_widgets)
-- *Optional* [Eloquent JavaScript: JavaScript and the Browser](https://eloquentjavascript.net/13_browser.html)
-- *Optional* [Eloquent JavaScript: The Document Object Model](https://eloquentjavascript.net/14_dom.html)
-- *Optional* [Eloquent JavaScript: Handling Events](https://eloquentjavascript.net/15_event.html)
-
-### Week 14 (April 13)
-
-- TBA
 
 ### Week 15 (April 20)
 

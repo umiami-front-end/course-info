@@ -5,5 +5,5 @@ The following repository contains information for Front-End Fundamentals (CIM 43
 - [Syllabus](https://github.com/umiami-front-end/course-info/blob/master/syllabus-spring-2020.md)
   - **[UPDATE: March 18, 2020](https://github.com/umiami-front-end/course-info/blob/master/syllabus-update.md)** <img src="assets/new.gif" alt="New!" />
 - [Student Acknowledgement](https://github.com/umiami-front-end/course-info/blob/master/student-acknowledgement.pdf)
-- [Course Outline](https://github.com/umiami-front-end/course-info/blob/master/course-outline.md)
+- [Course Outline](https://github.com/umiami-front-end/course-info/blob/master/course-outline.md) <img src="assets/new.gif" alt="New!" />
 - [Resources](https://github.com/umiami-front-end/course-info/blob/master/resources.md)
